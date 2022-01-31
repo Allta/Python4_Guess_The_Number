@@ -15,13 +15,13 @@ Dans ce jeu, l'utilisateur doit deviner le nombre séléctionner par le programm
 
 Il faudra : 
 - Choisir un nombre aléatoire
-<summary>
-  <details>Astuce : </details>
+<details>
+  <summary>Astuce : </summary>
   ```python
   from random import randrange
   print(randrange(10))
   ```
-</summary>
+</details>
 
 - Demander à utilisateur de rentrer un nombre
 - Comparer la saisie de l'utilisateur au nombre généré. 
