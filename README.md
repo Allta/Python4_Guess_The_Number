@@ -17,10 +17,13 @@ Il faudra :
 - Choisir un nombre aléatoire
 <details>
   <summary>Astuce : </summary>
+  
   ```python
+  
   from random import randrange
   print(randrange(10))
   ```
+  
 </details>
 
 - Demander à utilisateur de rentrer un nombre
